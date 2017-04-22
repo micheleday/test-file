@@ -2,14 +2,14 @@ body {
   font-family: serif;
 }
 h1 {
-  color: blue;
+  color: red;
 }
 p {
   background-color: linen;
 }
 
 .header {
-  background-color: #333;
+  background-color: peachpuff;
 }
 
 .nav {
